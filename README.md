@@ -11,8 +11,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- [Live Site URL:](https://bytepack-frontendmentor-results-summary.pages.dev/)
-- [Solution URL:](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV/hub)
+- [Live Site URL:](https://bytepack-frontendmentor-result-summary.pages.dev/)
+- [Solution URL:](https://www.frontendmentor.io/solutions/results-summary-component-Am4hB2R2HM)
 
 
 ### Screenshot
